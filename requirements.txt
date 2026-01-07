@@ -7,7 +7,7 @@ h5py>=2.8.0
 tensorboardX>=1.2
 tensorflow-gpu>=1.7.0
 https://github.com/shayansiddiqui/nn-common-modules/releases/download/v1.0/nn_common_modules-1.0-py2.py3-none-any.whl
-marshmallow==3.0.0rc5
+marshmallow==3.26.2
 polyaxon-cli==0.6.0
 polyaxon-client==0.6.0
 polyaxon-deploy==0.6.0
